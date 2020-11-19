@@ -4,14 +4,15 @@
     <version>1</version>
 
     <category title="Latest" />
-    <item drawable="cellwall" />
+    <item drawable="cell__wall" />
+    <item drawable="maskable" />
     <item drawable="permission_site" />
     <item drawable="tiger_oakes" />
     <item drawable="timbre" />
 
     <category title="Microsoft Apps" />
-    <item drawable="onedrive" />
-    <item drawable="onenote" />
+    <item drawable="one__drive" />
+    <item drawable="one__note" />
     <item drawable="outlook" />
 
 </resources>

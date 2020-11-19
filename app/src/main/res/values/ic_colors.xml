@@ -2,6 +2,7 @@
 <resources>
     <!-- Colors used in adaptive icons -->
     <color name="iconflock_bg">#457424</color>
+    <color name="maskable_bg">#FBEFD2</color>
     <color name="onedrive_bg">#2D4AB6</color>
     <color name="permission_site_bg">#eee</color>
     <color name="tiger_oakes_bg">#e66d31</color>

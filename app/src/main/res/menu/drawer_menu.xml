@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
     <group
         android:id="@+id/first_group"
         android:checkableBehavior="single"
@@ -29,6 +30,7 @@
             android:icon="@drawable/ic_widgets"
             android:orderInCategory="600"
             android:title="@string/templates"
+            app:showAsAction="never"
             android:visible="false" />
     </group>
 
