@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <background android:drawable="@drawable/cellwall_bg" />
+    <foreground>
+        <aapt:attr name="android:drawable">
+            <inset
+                android:drawable="@drawable/cellwall_fg"
+                android:inset="25%" />
+        </aapt:attr>
+    </foreground>
+</adaptive-icon>

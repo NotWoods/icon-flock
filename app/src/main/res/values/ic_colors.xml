@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="iconflock_background">#457424</color>
-    <color name="onedrive_background">#2D4AB6</color>
-    <color name="papirus_launcher_background">#4385CE</color>
-    <color name="permission_site_background">#eee</color>
-    <color name="tiger_oakes_background">#e66d31</color>
+    <!-- Colors used in adaptive icons -->
+    <color name="iconflock_bg">#457424</color>
+    <color name="onedrive_bg">#2D4AB6</color>
+    <color name="permission_site_bg">#eee</color>
+    <color name="tiger_oakes_bg">#e66d31</color>
 </resources>
