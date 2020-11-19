@@ -5,7 +5,7 @@
     <color name="primaryDark">#fafafa</color>
     <color name="onPrimary">#de000000</color>
 
-    <color name="accent">#ff457424</color>
+    <color name="accent">#457424</color>
     <color name="onAccent">#ffffff</color>
 
     <color name="surface">#ffffff</color>

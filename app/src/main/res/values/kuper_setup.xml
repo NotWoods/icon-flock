@@ -7,7 +7,7 @@
 
     <!-- These texts are shown in Zooper -->
     <string name="zooper_pack_name">@string/app_name</string>
-    <string name="zooper_pack_desc">Cool widgets.</string>
+    <string name="zooper_pack_desc">""</string>
     <string name="zooper_pack_author">Tiger Oakes</string>
 
     <!--    If set to 0, the user will not be allowed to save the templates you provide -->
