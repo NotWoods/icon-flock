@@ -4,6 +4,7 @@
     <version>1</version>
 
     <category title="Latest" />
+    <item drawable="fathom_analytics" />
     <item drawable="unlock" />
     <item drawable="cell__wall" />
     <item drawable="maskable" />
