@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Colors used in adaptive icons -->
+    <color name="avis_bg">#d4002a</color>
+    <color name="becu_bg">#D2272E</color>
     <color name="fathom_analytics_bg">#1F2126</color>
     <color name="iconflock_bg">#457424</color>
     <color name="maskable_bg">#FBEFD2</color>
@@ -8,4 +10,5 @@
     <color name="onedrive_bg">#2D4AB6</color>
     <color name="permission_site_bg">#eee</color>
     <color name="tiger_oakes_bg">#e66d31</color>
+    <color name="tripit_bg">#F7971C</color>
 </resources>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:aapt="http://schemas.android.com/aapt">
-    <background android:drawable="@color/netlify_bg"/>
+    <background android:drawable="@color/tripit_bg" />
     <foreground>
         <aapt:attr name="android:drawable">
             <inset
-                android:drawable="@drawable/netlify_fg"
+                android:drawable="@drawable/tripit_fg"
                 android:inset="25%" />
         </aapt:attr>
     </foreground>
     <monochrome>
         <aapt:attr name="android:drawable">
             <inset
-                android:drawable="@drawable/netlify_fg"
+                android:drawable="@drawable/tripit_monochrome"
                 android:inset="25%" />
         </aapt:attr>
     </monochrome>

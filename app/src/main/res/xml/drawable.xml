@@ -4,16 +4,19 @@
     <version>1</version>
 
     <category title="Latest" />
-    <item drawable="vaccine_card" />
-    <item drawable="lunch_money" />
-    <item drawable="fathom_analytics" />
-    <item drawable="unlock" />
+    <item drawable="avis" />
+    <item drawable="becu" />
     <item drawable="cell__wall" />
+    <item drawable="fathom_analytics" />
+    <item drawable="lunch_money" />
     <item drawable="maskable" />
     <item drawable="netlify" />
     <item drawable="permission_site" />
     <item drawable="tiger_oakes" />
     <item drawable="timbre" />
+    <item drawable="tripit" />
+    <item drawable="unlock" />
+    <item drawable="vaccine_card" />
 
     <category title="Microsoft Apps" />
     <item drawable="one__drive" />

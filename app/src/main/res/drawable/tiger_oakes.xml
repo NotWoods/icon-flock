@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
     <background android:drawable="@color/tiger_oakes_bg"/>
-    <foreground android:drawable="@drawable/tiger_oakes_fg"/>
-    <monochrome android:drawable="@drawable/tiger_oakes_fg"/>
+    <foreground>
+        <aapt:attr name="android:drawable">
+            <inset
+                android:drawable="@drawable/tiger_oakes_fg"
+                android:inset="10%" />
+        </aapt:attr>
+    </foreground>
+    <monochrome>
+        <aapt:attr name="android:drawable">
+            <inset
+                android:drawable="@drawable/tiger_oakes_fg"
+                android:inset="10%" />
+        </aapt:attr>
+    </monochrome>
 </adaptive-icon>
