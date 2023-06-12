@@ -2,4 +2,5 @@
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
     <background android:drawable="@color/tiger_oakes_bg"/>
     <foreground android:drawable="@drawable/tiger_oakes_fg"/>
+    <monochrome android:drawable="@drawable/tiger_oakes_fg"/>
 </adaptive-icon>

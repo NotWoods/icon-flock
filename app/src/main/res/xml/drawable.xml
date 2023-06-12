@@ -4,11 +4,13 @@
     <version>1</version>
 
     <category title="Latest" />
+    <item drawable="vaccine_card" />
     <item drawable="lunch_money" />
     <item drawable="fathom_analytics" />
     <item drawable="unlock" />
     <item drawable="cell__wall" />
     <item drawable="maskable" />
+    <item drawable="netlify" />
     <item drawable="permission_site" />
     <item drawable="tiger_oakes" />
     <item drawable="timbre" />

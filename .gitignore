@@ -11,9 +11,6 @@
 # Eclipse related files
 #############################################################################
 
-# do not ignore debug apk
-!app-debug.apk
-
 *.pydevproject
 .metadata
 .gradle
